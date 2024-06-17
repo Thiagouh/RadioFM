@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	@apply bg-gradient-to-br from-gray-900 via-slate-900 to-slate-700 h-screen font-sans flex flex-col items-center gap-y-40;
+	@apply font-osans;
+	@apply text-white;
+  }
