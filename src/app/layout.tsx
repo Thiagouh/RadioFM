@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "RádioFM Evangélica",
+  title: "Rádio Web Cristã",
   description: "Para você escutar sempre e onde quiser",
 };
 
